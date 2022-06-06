@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66901905532",
+    "project_id": "awaeltestproj",
+    "storage_bucket": "awaeltestproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66901905532:android:8579607cb07c467b63f9f9",
+        "android_client_info": {
+          "package_name": "com.example.newProj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66901905532-cnp2s73kgs8bn48i90uj913oq6dmfo0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyuRwEuvlUHQa1f79IMXWN_WnVwnm-gro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66901905532-cnp2s73kgs8bn48i90uj913oq6dmfo0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
